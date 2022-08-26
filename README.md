@@ -14,5 +14,5 @@
     window = tkinter.Tk()
 
     window.mainloop()
-		
-		![Window Tk](https://user-images.githubusercontent.com/105388226/186985074-e92b7c83-16c7-46d6-85b7-325666035ab5.jpg)
+
+![Window Tk](https://user-images.githubusercontent.com/105388226/186985427-bc44b385-a14a-4959-b033-ee0e8361a81b.jpg)
